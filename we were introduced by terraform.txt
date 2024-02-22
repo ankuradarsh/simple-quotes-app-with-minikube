@@ -1,0 +1,2 @@
+we were introduced by terraform
+a brief introduction about Infra as code, monolithic and microservices and we configure the resource such as rds and ec2 after making the main.tf and provider.tf
